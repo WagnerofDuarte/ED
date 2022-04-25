@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "vet.h": "c",
+        "msgassert.h": "c"
+    }
+}
